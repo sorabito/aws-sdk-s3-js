@@ -1,0 +1,17 @@
+{
+  "name": "aws-sdk-s3-js",
+  "homepage": "https://github.com/sorabito/aws-sdk-s3-js",
+  "authors": [
+    "Kensuke Ohta <k.ohta@sorabito.com>"
+  ],
+  "description": "pre-built aws-sdk-s3-js",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
