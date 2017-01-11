@@ -5,7 +5,7 @@
     "Kensuke Ohta <k.ohta@sorabito.com>"
   ],
   "description": "pre-built aws-sdk-s3-js",
-  "main": "",
+  "main": "dist/aws-sdk-s3.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
